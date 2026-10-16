@@ -37,5 +37,5 @@ The **Live News Feeder Web Application** streamlines daily news consumption by a
 ## 🤝 Team & Credits
 
 Developed collaboratively by:
-- **Vivek Ratan Sagar** – *Backend Architecture, API Integration & Data Pipeline*
+- **Chetan kumar** – *Backend Architecture, API Integration & Data Pipeline*
 - **Ujjawal Mittal** – *Frontend UI/UX & Dynamic Filtering*
